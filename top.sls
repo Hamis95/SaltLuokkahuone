@@ -4,3 +4,4 @@ base:
     
   'slave1':
     - DNS
+
