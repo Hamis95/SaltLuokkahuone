@@ -79,4 +79,4 @@ Täältä näkee tiedoston [gcompris.conf](https://github.com/Hamis95/SaltLuokka
 
 Tein myös vaihtoehtoiset moduulit [DNS](https://github.com/Hamis95/SaltLuokkahuone/tree/main/DNS) ja [Firefox](https://github.com/Hamis95/SaltLuokkahuone/tree/main/Firefox) asetuksille.
 
-** HUOM. moduulin raportointi ja vaiheet on selostettu [Harjoitus 7](https://github.com/Hamis95/ConfigManagement/blob/main/H7.md)
+**HUOM. moduulin raportointi ja vaiheet on selostettu [Harjoitus 7](https://github.com/Hamis95/ConfigManagement/blob/main/H7.md)**
