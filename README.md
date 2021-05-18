@@ -5,4 +5,6 @@ Moduuli tekee firefoxista turvallisemman ja asentaa opetukselle tarvittavia ohje
 
 Tähän moduuliin valitsin ohjelmat: **Firefox, GCompris, Tux Math, Tux Paint ja Scratch.**
 
+Moduuli muokkaa Firefoxin asetuksia, jotta sen käyttö on turvallisempaa. Nämä asetukset löytyvät [syspref.js](https://github.com/Hamis95/SaltLuokkahuone/blob/main/saltluokka/syspref.js) tiedostosta.
 
+Moduuli muokkaa myös minionin DNS palvelinta, jotta koulu voi asettaa haluamansa DNS-palvelimen sivujen blokkausta ja tietoturvaa varten.
