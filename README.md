@@ -77,5 +77,6 @@ Koska linuxin käyttäjät eivät ole tyhmiä niin muokkaan myös GCompriksen ko
 
 Täältä näkee tiedoston [gcompris.conf](https://github.com/Hamis95/SaltLuokkahuone/blob/main/saltluokka/gcompris.conf)
 
+Tein myös vaihtoehtoiset moduulit [DNS](https://github.com/Hamis95/SaltLuokkahuone/tree/main/DNS) ja [Firefox](https://github.com/Hamis95/SaltLuokkahuone/tree/main/Firefox) asetuksille.
 
-
+** HUOM. moduulin raportointi ja vaiheet on selostettu [Harjoitus 7](https://github.com/Hamis95/ConfigManagement/blob/main/H7.md)
