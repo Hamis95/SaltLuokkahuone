@@ -73,5 +73,9 @@ nameserver 1.0.0.1
 
 ```
 
+Koska linuxin käyttäjät eivät ole tyhmiä niin muokkaan myös GCompriksen konfiguraatiota, että vaikeustaso alkaa 1 sijaan 2.
+
+Täältä näkee tiedoston [gcompris.conf](https://github.com/Hamis95/SaltLuokkahuone/blob/main/saltluokka/gcompris.conf)
+
 
 
